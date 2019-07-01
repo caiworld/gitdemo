@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    url: jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST = 127.0.0.1)(PORT = 1521))(CONNECT_DATA =(SERVER = DEDICATED)(SERVICE_NAME = orcl)))
+    username: scott
+    password: tiger
+mybatis:
+  # xml位置，指定dao与sql关联
+  mapper-locations: classpath:mapper/*.xml
+  configuration:
+    # 下划线命名的字段，自动转驼峰命名
+    map-underscore-to-camel-case: true
+  type-aliases-package: com.caihao.springbootdemo.entity

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gitdemo.iml" filepath="$PROJECT_DIR$/.idea/modules/gitdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gitdemo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gitdemo_main.iml" group="gitdemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gitdemo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gitdemo_test.iml" group="gitdemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springbootdemo1.iml" filepath="$PROJECT_DIR$/.idea/modules/springbootdemo1.iml" group="springbootdemo1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springbootdemo1/springbootdemo1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/springbootdemo1/springbootdemo1_main.iml" group="springbootdemo1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springbootdemo1/springbootdemo1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/springbootdemo1/springbootdemo1_test.iml" group="springbootdemo1" />
+    </modules>
+  </component>
+</project>
