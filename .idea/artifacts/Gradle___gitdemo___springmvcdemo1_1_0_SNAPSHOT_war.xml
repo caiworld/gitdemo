@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : gitdemo : springmvcdemo1-1.0-SNAPSHOT.war">
+    <output-path>$PROJECT_DIR$/springmvcdemo1/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$" />
+    </properties>
+    <root id="archive" name="springmvcdemo1-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Gradle : gitdemo : springmvcdemo1-1.0-SNAPSHOT.war (exploded)" />
+    </root>
+  </artifact>
+</component>
