@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/springbootdemo1.iml" filepath="$PROJECT_DIR$/.idea/modules/springbootdemo1.iml" group="springbootdemo1" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/springbootdemo1/springbootdemo1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/springbootdemo1/springbootdemo1_main.iml" group="springbootdemo1" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/springbootdemo1/springbootdemo1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/springbootdemo1/springbootdemo1_test.iml" group="springbootdemo1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springmvcdemo1.iml" filepath="$PROJECT_DIR$/.idea/modules/springmvcdemo1.iml" group="springmvcdemo1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springmvcdemo1/springmvcdemo1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/springmvcdemo1/springmvcdemo1_main.iml" group="springmvcdemo1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springmvcdemo1/springmvcdemo1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/springmvcdemo1/springmvcdemo1_test.iml" group="springmvcdemo1" />
     </modules>
   </component>
 </project>
