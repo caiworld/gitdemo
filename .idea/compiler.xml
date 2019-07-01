@@ -6,6 +6,8 @@
       <module name="gitdemo_test" target="1.8" />
       <module name="springbootdemo1_main" target="1.8" />
       <module name="springbootdemo1_test" target="1.8" />
+      <module name="springmvcdemo1_main" target="1.8" />
+      <module name="springmvcdemo1_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
